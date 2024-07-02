@@ -1,8 +1,11 @@
 {
-  "name": "react-native-reconnecting-websocket",
-  "version": "1.0.3",
+  "name": "@react-native-oh-tpl/react-native-reconnecting-websocket",
+  "version": "1.0.3-0.0.1",
   "description": "websocket module",
   "main": "index.js",
+  "harmony": {
+    "alias": "react-native-reconnecting-websocket"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
